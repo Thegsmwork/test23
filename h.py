@@ -3,7 +3,7 @@ from telegram import Update, Bot
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
 # Telegram bot token
-TOKEN = '7224882890:AAHLe_G7vHnBLcL60cfThYAoKTOb0Xb5IIw'
+TOKEN = '7365934709:AAGdw4hGwbKSExQopyLnprleV2GCBE-LrEw'
 # OMDb API endpoint and key (free public key)
 OMDB_API_URL = 'http://www.omdbapi.com/'
 OMDB_API_KEY = 'thewdb'  # You can get your own free key from http://www.omdbapi.com/apikey.aspx
